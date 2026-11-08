@@ -1,5 +1,5 @@
 # Themis
-A curated Linux desktop inspired by Omarchy, built around sensible defaults and user freedom.
+A curated Linux desktop inspired by Omarchy, built in NixOS around sensible defaults and user freedom.
 
 ## Philosophy
 Themis is built around the idea of order without rigidity.
